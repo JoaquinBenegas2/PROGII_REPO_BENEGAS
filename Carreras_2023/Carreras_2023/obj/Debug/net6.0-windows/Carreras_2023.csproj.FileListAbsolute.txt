@@ -1,0 +1,98 @@
+D:\User Data\Desktop\Mis Cosas\Universidad\2023\1er Cuatrimestre\Programación\Ejercicios\Unidad I - Unidad III\Carreras_2023\Carreras_2023\bin\Debug\net6.0-windows\Carreras_2023.exe
+D:\User Data\Desktop\Mis Cosas\Universidad\2023\1er Cuatrimestre\Programación\Ejercicios\Unidad I - Unidad III\Carreras_2023\Carreras_2023\bin\Debug\net6.0-windows\Carreras_2023.deps.json
+D:\User Data\Desktop\Mis Cosas\Universidad\2023\1er Cuatrimestre\Programación\Ejercicios\Unidad I - Unidad III\Carreras_2023\Carreras_2023\bin\Debug\net6.0-windows\Carreras_2023.runtimeconfig.json
+D:\User Data\Desktop\Mis Cosas\Universidad\2023\1er Cuatrimestre\Programación\Ejercicios\Unidad I - Unidad III\Carreras_2023\Carreras_2023\bin\Debug\net6.0-windows\Carreras_2023.dll
+D:\User Data\Desktop\Mis Cosas\Universidad\2023\1er Cuatrimestre\Programación\Ejercicios\Unidad I - Unidad III\Carreras_2023\Carreras_2023\bin\Debug\net6.0-windows\Carreras_2023.pdb
+D:\User Data\Desktop\Mis Cosas\Universidad\2023\1er Cuatrimestre\Programación\Ejercicios\Unidad I - Unidad III\Carreras_2023\Carreras_2023\obj\Debug\net6.0-windows\Carreras_2023.csproj.AssemblyReference.cache
+D:\User Data\Desktop\Mis Cosas\Universidad\2023\1er Cuatrimestre\Programación\Ejercicios\Unidad I - Unidad III\Carreras_2023\Carreras_2023\obj\Debug\net6.0-windows\Carreras_2023.Presentacion.FrmAgregarCarrera.resources
+D:\User Data\Desktop\Mis Cosas\Universidad\2023\1er Cuatrimestre\Programación\Ejercicios\Unidad I - Unidad III\Carreras_2023\Carreras_2023\obj\Debug\net6.0-windows\Carreras_2023.FrmCarreras2023.resources
+D:\User Data\Desktop\Mis Cosas\Universidad\2023\1er Cuatrimestre\Programación\Ejercicios\Unidad I - Unidad III\Carreras_2023\Carreras_2023\obj\Debug\net6.0-windows\Carreras_2023.csproj.GenerateResource.cache
+D:\User Data\Desktop\Mis Cosas\Universidad\2023\1er Cuatrimestre\Programación\Ejercicios\Unidad I - Unidad III\Carreras_2023\Carreras_2023\obj\Debug\net6.0-windows\Carreras_2023.GeneratedMSBuildEditorConfig.editorconfig
+D:\User Data\Desktop\Mis Cosas\Universidad\2023\1er Cuatrimestre\Programación\Ejercicios\Unidad I - Unidad III\Carreras_2023\Carreras_2023\obj\Debug\net6.0-windows\Carreras_2023.AssemblyInfoInputs.cache
+D:\User Data\Desktop\Mis Cosas\Universidad\2023\1er Cuatrimestre\Programación\Ejercicios\Unidad I - Unidad III\Carreras_2023\Carreras_2023\obj\Debug\net6.0-windows\Carreras_2023.AssemblyInfo.cs
+D:\User Data\Desktop\Mis Cosas\Universidad\2023\1er Cuatrimestre\Programación\Ejercicios\Unidad I - Unidad III\Carreras_2023\Carreras_2023\obj\Debug\net6.0-windows\Carreras_2023.csproj.CoreCompileInputs.cache
+D:\User Data\Desktop\Mis Cosas\Universidad\2023\1er Cuatrimestre\Programación\Ejercicios\Unidad I - Unidad III\Carreras_2023\Carreras_2023\obj\Debug\net6.0-windows\Carreras_2023.dll
+D:\User Data\Desktop\Mis Cosas\Universidad\2023\1er Cuatrimestre\Programación\Ejercicios\Unidad I - Unidad III\Carreras_2023\Carreras_2023\obj\Debug\net6.0-windows\refint\Carreras_2023.dll
+D:\User Data\Desktop\Mis Cosas\Universidad\2023\1er Cuatrimestre\Programación\Ejercicios\Unidad I - Unidad III\Carreras_2023\Carreras_2023\obj\Debug\net6.0-windows\Carreras_2023.pdb
+D:\User Data\Desktop\Mis Cosas\Universidad\2023\1er Cuatrimestre\Programación\Ejercicios\Unidad I - Unidad III\Carreras_2023\Carreras_2023\obj\Debug\net6.0-windows\Carreras_2023.genruntimeconfig.cache
+D:\User Data\Desktop\Mis Cosas\Universidad\2023\1er Cuatrimestre\Programación\Ejercicios\Unidad I - Unidad III\Carreras_2023\Carreras_2023\obj\Debug\net6.0-windows\ref\Carreras_2023.dll
+C:\Users\alumno\Documents\CARRERAS_ASIGNATURAS\Carreras_2023\Carreras_2023\obj\Debug\net6.0-windows\Carreras_2023.csproj.AssemblyReference.cache
+C:\Users\alumno\Documents\CARRERAS_ASIGNATURAS\Carreras_2023\Carreras_2023\obj\Debug\net6.0-windows\Carreras_2023.Presentacion.FrmAgregarCarrera.resources
+C:\Users\alumno\Documents\CARRERAS_ASIGNATURAS\Carreras_2023\Carreras_2023\obj\Debug\net6.0-windows\Carreras_2023.FrmCarreras2023.resources
+C:\Users\alumno\Documents\CARRERAS_ASIGNATURAS\Carreras_2023\Carreras_2023\obj\Debug\net6.0-windows\Carreras_2023.csproj.GenerateResource.cache
+C:\Users\alumno\Documents\CARRERAS_ASIGNATURAS\Carreras_2023\Carreras_2023\obj\Debug\net6.0-windows\Carreras_2023.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alumno\Documents\CARRERAS_ASIGNATURAS\Carreras_2023\Carreras_2023\obj\Debug\net6.0-windows\Carreras_2023.AssemblyInfoInputs.cache
+C:\Users\alumno\Documents\CARRERAS_ASIGNATURAS\Carreras_2023\Carreras_2023\obj\Debug\net6.0-windows\Carreras_2023.AssemblyInfo.cs
+C:\Users\alumno\Documents\CARRERAS_ASIGNATURAS\Carreras_2023\Carreras_2023\obj\Debug\net6.0-windows\Carreras_2023.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Documents\CARRERAS_ASIGNATURAS\Carreras_2023\Carreras_2023\obj\Debug\net6.0-windows\Carreras_2023.dll
+C:\Users\alumno\Documents\CARRERAS_ASIGNATURAS\Carreras_2023\Carreras_2023\obj\Debug\net6.0-windows\refint\Carreras_2023.dll
+C:\Users\alumno\Documents\CARRERAS_ASIGNATURAS\Carreras_2023\Carreras_2023\obj\Debug\net6.0-windows\Carreras_2023.pdb
+C:\Users\alumno\Documents\CARRERAS_ASIGNATURAS\Carreras_2023\Carreras_2023\bin\Debug\net6.0-windows\Carreras_2023.exe
+C:\Users\alumno\Documents\CARRERAS_ASIGNATURAS\Carreras_2023\Carreras_2023\bin\Debug\net6.0-windows\Carreras_2023.deps.json
+C:\Users\alumno\Documents\CARRERAS_ASIGNATURAS\Carreras_2023\Carreras_2023\bin\Debug\net6.0-windows\Carreras_2023.runtimeconfig.json
+C:\Users\alumno\Documents\CARRERAS_ASIGNATURAS\Carreras_2023\Carreras_2023\bin\Debug\net6.0-windows\Carreras_2023.dll
+C:\Users\alumno\Documents\CARRERAS_ASIGNATURAS\Carreras_2023\Carreras_2023\bin\Debug\net6.0-windows\Carreras_2023.pdb
+C:\Users\alumno\Documents\CARRERAS_ASIGNATURAS\Carreras_2023\Carreras_2023\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\alumno\Documents\CARRERAS_ASIGNATURAS\Carreras_2023\Carreras_2023\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\alumno\Documents\CARRERAS_ASIGNATURAS\Carreras_2023\Carreras_2023\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\alumno\Documents\CARRERAS_ASIGNATURAS\Carreras_2023\Carreras_2023\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\alumno\Documents\CARRERAS_ASIGNATURAS\Carreras_2023\Carreras_2023\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\alumno\Documents\CARRERAS_ASIGNATURAS\Carreras_2023\Carreras_2023\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\alumno\Documents\CARRERAS_ASIGNATURAS\Carreras_2023\Carreras_2023\obj\Debug\net6.0-windows\Carreras_2023.csproj.CopyComplete
+C:\Users\alumno\Documents\CARRERAS_ASIGNATURAS\Carreras_2023\Carreras_2023\obj\Debug\net6.0-windows\Carreras_2023.genruntimeconfig.cache
+C:\Users\alumno\Documents\CARRERAS_ASIGNATURAS\Carreras_2023\Carreras_2023\obj\Debug\net6.0-windows\ref\Carreras_2023.dll
+C:\Users\alumno\Documents\CARRERAS_ASIGNATURAS\Carreras_2023\Carreras_2023\obj\Debug\net6.0-windows\Carreras_2023.Presentacion.FrmConsultarCarrera.resources
+D:\User Data\Desktop\CARRERAS_ASIGNATURAS_2\Carreras_2023\Carreras_2023\bin\Debug\net6.0-windows\Carreras_2023.exe
+D:\User Data\Desktop\CARRERAS_ASIGNATURAS_2\Carreras_2023\Carreras_2023\bin\Debug\net6.0-windows\Carreras_2023.deps.json
+D:\User Data\Desktop\CARRERAS_ASIGNATURAS_2\Carreras_2023\Carreras_2023\bin\Debug\net6.0-windows\Carreras_2023.runtimeconfig.json
+D:\User Data\Desktop\CARRERAS_ASIGNATURAS_2\Carreras_2023\Carreras_2023\bin\Debug\net6.0-windows\Carreras_2023.dll
+D:\User Data\Desktop\CARRERAS_ASIGNATURAS_2\Carreras_2023\Carreras_2023\bin\Debug\net6.0-windows\Carreras_2023.pdb
+D:\User Data\Desktop\CARRERAS_ASIGNATURAS_2\Carreras_2023\Carreras_2023\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\User Data\Desktop\CARRERAS_ASIGNATURAS_2\Carreras_2023\Carreras_2023\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\User Data\Desktop\CARRERAS_ASIGNATURAS_2\Carreras_2023\Carreras_2023\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\User Data\Desktop\CARRERAS_ASIGNATURAS_2\Carreras_2023\Carreras_2023\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\User Data\Desktop\CARRERAS_ASIGNATURAS_2\Carreras_2023\Carreras_2023\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\User Data\Desktop\CARRERAS_ASIGNATURAS_2\Carreras_2023\Carreras_2023\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\User Data\Desktop\CARRERAS_ASIGNATURAS_2\Carreras_2023\Carreras_2023\obj\Debug\net6.0-windows\Carreras_2023.csproj.AssemblyReference.cache
+D:\User Data\Desktop\CARRERAS_ASIGNATURAS_2\Carreras_2023\Carreras_2023\obj\Debug\net6.0-windows\Carreras_2023.Presentacion.FrmAgregarCarrera.resources
+D:\User Data\Desktop\CARRERAS_ASIGNATURAS_2\Carreras_2023\Carreras_2023\obj\Debug\net6.0-windows\Carreras_2023.FrmCarreras2023.resources
+D:\User Data\Desktop\CARRERAS_ASIGNATURAS_2\Carreras_2023\Carreras_2023\obj\Debug\net6.0-windows\Carreras_2023.Presentacion.FrmConsultarCarrera.resources
+D:\User Data\Desktop\CARRERAS_ASIGNATURAS_2\Carreras_2023\Carreras_2023\obj\Debug\net6.0-windows\Carreras_2023.csproj.GenerateResource.cache
+D:\User Data\Desktop\CARRERAS_ASIGNATURAS_2\Carreras_2023\Carreras_2023\obj\Debug\net6.0-windows\Carreras_2023.GeneratedMSBuildEditorConfig.editorconfig
+D:\User Data\Desktop\CARRERAS_ASIGNATURAS_2\Carreras_2023\Carreras_2023\obj\Debug\net6.0-windows\Carreras_2023.AssemblyInfoInputs.cache
+D:\User Data\Desktop\CARRERAS_ASIGNATURAS_2\Carreras_2023\Carreras_2023\obj\Debug\net6.0-windows\Carreras_2023.AssemblyInfo.cs
+D:\User Data\Desktop\CARRERAS_ASIGNATURAS_2\Carreras_2023\Carreras_2023\obj\Debug\net6.0-windows\Carreras_2023.csproj.CoreCompileInputs.cache
+D:\User Data\Desktop\CARRERAS_ASIGNATURAS_2\Carreras_2023\Carreras_2023\obj\Debug\net6.0-windows\Carreras_2023.csproj.CopyComplete
+D:\User Data\Desktop\CARRERAS_ASIGNATURAS_2\Carreras_2023\Carreras_2023\obj\Debug\net6.0-windows\Carreras_2023.dll
+D:\User Data\Desktop\CARRERAS_ASIGNATURAS_2\Carreras_2023\Carreras_2023\obj\Debug\net6.0-windows\refint\Carreras_2023.dll
+D:\User Data\Desktop\CARRERAS_ASIGNATURAS_2\Carreras_2023\Carreras_2023\obj\Debug\net6.0-windows\Carreras_2023.pdb
+D:\User Data\Desktop\CARRERAS_ASIGNATURAS_2\Carreras_2023\Carreras_2023\obj\Debug\net6.0-windows\Carreras_2023.genruntimeconfig.cache
+D:\User Data\Desktop\CARRERAS_ASIGNATURAS_2\Carreras_2023\Carreras_2023\obj\Debug\net6.0-windows\ref\Carreras_2023.dll
+D:\User Data\Desktop\CARRERAS_ASIGNATURAS_2\Carreras_2023\Carreras_2023\obj\Debug\net6.0-windows\Carreras_2023.Presentacion.FrmDetallesCarrera.resources
+D:\User Data\Desktop\PROGII_REPO_BENEGAS\Carreras_2023\Carreras_2023\bin\Debug\net6.0-windows\Carreras_2023.exe
+D:\User Data\Desktop\PROGII_REPO_BENEGAS\Carreras_2023\Carreras_2023\bin\Debug\net6.0-windows\Carreras_2023.deps.json
+D:\User Data\Desktop\PROGII_REPO_BENEGAS\Carreras_2023\Carreras_2023\bin\Debug\net6.0-windows\Carreras_2023.runtimeconfig.json
+D:\User Data\Desktop\PROGII_REPO_BENEGAS\Carreras_2023\Carreras_2023\bin\Debug\net6.0-windows\Carreras_2023.dll
+D:\User Data\Desktop\PROGII_REPO_BENEGAS\Carreras_2023\Carreras_2023\bin\Debug\net6.0-windows\Carreras_2023.pdb
+D:\User Data\Desktop\PROGII_REPO_BENEGAS\Carreras_2023\Carreras_2023\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\User Data\Desktop\PROGII_REPO_BENEGAS\Carreras_2023\Carreras_2023\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\User Data\Desktop\PROGII_REPO_BENEGAS\Carreras_2023\Carreras_2023\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\User Data\Desktop\PROGII_REPO_BENEGAS\Carreras_2023\Carreras_2023\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\User Data\Desktop\PROGII_REPO_BENEGAS\Carreras_2023\Carreras_2023\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\User Data\Desktop\PROGII_REPO_BENEGAS\Carreras_2023\Carreras_2023\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\User Data\Desktop\PROGII_REPO_BENEGAS\Carreras_2023\Carreras_2023\obj\Debug\net6.0-windows\Carreras_2023.csproj.AssemblyReference.cache
+D:\User Data\Desktop\PROGII_REPO_BENEGAS\Carreras_2023\Carreras_2023\obj\Debug\net6.0-windows\Carreras_2023.Presentacion.FrmAgregarCarrera.resources
+D:\User Data\Desktop\PROGII_REPO_BENEGAS\Carreras_2023\Carreras_2023\obj\Debug\net6.0-windows\Carreras_2023.FrmCarreras2023.resources
+D:\User Data\Desktop\PROGII_REPO_BENEGAS\Carreras_2023\Carreras_2023\obj\Debug\net6.0-windows\Carreras_2023.Presentacion.FrmConsultarCarrera.resources
+D:\User Data\Desktop\PROGII_REPO_BENEGAS\Carreras_2023\Carreras_2023\obj\Debug\net6.0-windows\Carreras_2023.Presentacion.FrmDetallesCarrera.resources
+D:\User Data\Desktop\PROGII_REPO_BENEGAS\Carreras_2023\Carreras_2023\obj\Debug\net6.0-windows\Carreras_2023.csproj.GenerateResource.cache
+D:\User Data\Desktop\PROGII_REPO_BENEGAS\Carreras_2023\Carreras_2023\obj\Debug\net6.0-windows\Carreras_2023.GeneratedMSBuildEditorConfig.editorconfig
+D:\User Data\Desktop\PROGII_REPO_BENEGAS\Carreras_2023\Carreras_2023\obj\Debug\net6.0-windows\Carreras_2023.AssemblyInfoInputs.cache
+D:\User Data\Desktop\PROGII_REPO_BENEGAS\Carreras_2023\Carreras_2023\obj\Debug\net6.0-windows\Carreras_2023.AssemblyInfo.cs
+D:\User Data\Desktop\PROGII_REPO_BENEGAS\Carreras_2023\Carreras_2023\obj\Debug\net6.0-windows\Carreras_2023.csproj.CoreCompileInputs.cache
+D:\User Data\Desktop\PROGII_REPO_BENEGAS\Carreras_2023\Carreras_2023\obj\Debug\net6.0-windows\Carreras_2023.csproj.CopyComplete
+D:\User Data\Desktop\PROGII_REPO_BENEGAS\Carreras_2023\Carreras_2023\obj\Debug\net6.0-windows\Carreras_2023.dll
+D:\User Data\Desktop\PROGII_REPO_BENEGAS\Carreras_2023\Carreras_2023\obj\Debug\net6.0-windows\refint\Carreras_2023.dll
+D:\User Data\Desktop\PROGII_REPO_BENEGAS\Carreras_2023\Carreras_2023\obj\Debug\net6.0-windows\Carreras_2023.pdb
+D:\User Data\Desktop\PROGII_REPO_BENEGAS\Carreras_2023\Carreras_2023\obj\Debug\net6.0-windows\Carreras_2023.genruntimeconfig.cache
+D:\User Data\Desktop\PROGII_REPO_BENEGAS\Carreras_2023\Carreras_2023\obj\Debug\net6.0-windows\ref\Carreras_2023.dll
